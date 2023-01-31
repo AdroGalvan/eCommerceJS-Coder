@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap");
+
+* {
+  font-family: "EB Garamond", serif;
+}
+
+h2 {
+  color: #01f603;
+}
+
+td,
+th,
+label {
+  color: white;
+}
+
+.imagen {
+  max-width: 100%;
+}
+
+a {
+  cursor: pointer;
+}
+.alerta {
+  font-weight: 700;
+}
+body {
+  background-color: #1d1c1c;
+  overflow-x: hidden;
+}
+.modal-contenedor {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.img-carrito {
+  width: 200px;
+  padding: 20px;
+}
+.modal-content {
+  background-color: #ffffff;
+}
+.parrafo {
+  font-weight: 900;
+  font-style: italic;
+}
+#precioTotal {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.boton {
+  opacity: 0;
+}
+.card {
+  margin: 1%;
+  background-color: #01f603;
+}
