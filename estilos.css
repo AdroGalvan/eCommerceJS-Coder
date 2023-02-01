@@ -8,6 +8,11 @@ h2 {
   color: #01f603;
 }
 
+h5,
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 td,
 th,
 label {
@@ -56,5 +61,5 @@ a {
 }
 .card {
   margin: 1%;
-  background-color: #01f603;
+  background-color: #ffffff;
 }
